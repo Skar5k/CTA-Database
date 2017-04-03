@@ -1,0 +1,9 @@
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\bin\Debug\341-CTADB.exe.config
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\obj\Debug\_341_CTADB.Form1.resources
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\obj\Debug\_341_CTADB.Properties.Resources.resources
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\obj\Debug\341-CTADB.csproj.GenerateResource.Cache
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\bin\Debug\341-CTADB.exe
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\bin\Debug\341-CTADB.pdb
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\obj\Debug\341-CTADB.exe
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\obj\Debug\341-CTADB.pdb
+c:\users\khals\documents\visual studio 2015\Projects\341-CTADB\341-CTADB\obj\Debug\341-CTADB.csprojResolveAssemblyReference.cache
